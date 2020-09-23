@@ -1,12 +1,8 @@
-<!--
-**nikhilmopidevi/nikhilmopidevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
-
 ### Hello, there! My name is Nikhil.
 
 I love to create products which solve problems.
    
-## Many of my repositories are from my early years of programming when still in college. The code in them isn't anywhere near to what I write nowadays. I write much better, modular, clean, and efficient code now.
+#### Many of my repositories are from my early years of programming when still in college. The code in them isn't anywhere near to what I write nowadays. I write much better, modular, clean, and efficient code now.
 
 Some blog posts from my programming blog [Semicolon](https://nikhilmopidevi.github.io/):
 - [Overview of the Java Collections Framework](https://nikhilmopidevi.github.io/2017/06/19/Overview-of-the-Java-Collections-Framework/)
